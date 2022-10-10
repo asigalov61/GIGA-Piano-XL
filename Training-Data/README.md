@@ -1,8 +1,8 @@
-# GIGA Piano XL Training Data
+# GIGA-Piano XL Training Data
 
 ***
 
-## GIGA Piano XL Perceiver Training Data Pack (4.2GB)
+## GIGA-Piano XL Perceiver Training Data Pack (4.2GB)
 
 ### 1) Contains ~420k Solo Piano MIDI compositions
 ### 1) Based on original GIGA-Piano training data
@@ -10,7 +10,7 @@
 ### 3) Works with any type of data sampling and any model sequence length
 
 ```
-!wget --no-check-certificate -O 'GIGA-Piano-Perceiver-Training-Data.zip' "https://onedrive.live.com/download?cid=8A0D502FC99C608F&resid=8A0D502FC99C608F%2118740&authkey=ANEK-9WanNFyalw"
+!wget --no-check-certificate -O 'GIGA-Piano-XL-Perceiver-Training-Data.zip' "https://onedrive.live.com/download?cid=8A0D502FC99C608F&resid=8A0D502FC99C608F%2118740&authkey=ANEK-9WanNFyalw"
 ```
 
 ### Encoding info:
