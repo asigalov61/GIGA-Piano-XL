@@ -1,5 +1,5 @@
 # GIGA-Piano XL
-## SOTA Piano Transformer model trained on 4.2GB of MIDI solo piano music
+## SOTA Piano Transformer model trained on 4.2GB of Solo Piano MIDI music
 ## Everything you wanted to hear from original GIGA-Piano but were afraid to ask for :)
 
 ***
