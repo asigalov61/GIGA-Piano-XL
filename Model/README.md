@@ -1,4 +1,4 @@
-# GIGA Piano XL Pre-Trained Model
+# GIGA-Piano XL Pre-Trained Model
 
 ***
 
