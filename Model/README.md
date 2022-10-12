@@ -2,6 +2,18 @@
 
 ***
 
+## Trained upon ~420k Solo Piano MIDI compositions for ~1.2 epochs/~138k steps/~84 hours on dual A6000 48GB GPUs
+
+***
+
+## Model Stats
+
+### FLoss 1.2590 CE
+### VLoss 0.6118 CE
+### Acc: 0.8032 CE
+
+***
+
 ![GIGA-Piano-XL-Training-Loss-Graph](https://user-images.githubusercontent.com/56325539/195238204-431763f6-3c03-4b05-81f0-96a60815243f.png)
 
 ***
