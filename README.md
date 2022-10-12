@@ -18,7 +18,7 @@
 ### Features include:
 ### 1) Single Continuation
 ### 2) Auto-Continuations
-### 3) Pitches Inpainting
+### 3) Inpainting
 ### 4) Melody Harmonization
 ### 5) Notes/Chords Progressions
 
