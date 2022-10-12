@@ -24,5 +24,12 @@
 
 ***
 
+## TODO
+
+### 1) Add training code/colab
+### 2) Add advanced melody harmonization generator
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2022
