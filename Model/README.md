@@ -2,7 +2,7 @@
 
 ***
 
-## Trained upon ~420k Solo Piano MIDI compositions for ~1.2 epochs/~138k steps/~84 hours on dual A6000 48GB GPUs
+## Trained upon ~420k Solo Piano MIDI compositions for ~1.2 epochs/~138k steps/~84 hours @ 2048 seq_len/8 batches on dual A6000 48GB GPUs
 
 ***
 
