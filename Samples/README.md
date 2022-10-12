@@ -1,4 +1,4 @@
-# GIGA Piano XL Output Samples
+# GIGA-Piano XL Output Samples
 
 ***
 
