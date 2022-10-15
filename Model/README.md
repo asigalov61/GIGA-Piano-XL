@@ -14,6 +14,12 @@
 
 ***
 
+### Encoding info:
+### [dTime(0-126), Duration(1-126)+128, MIDI Pitch(1-126)+256, MIDI Velocity(1-126)+384]
+### Compositions separator/Intro/Zero sequence: [126, 126+128, 0+256, 0+384]
+
+***
+
 ![GIGA-Piano-XL-Training-Loss-Graph](https://user-images.githubusercontent.com/56325539/195238204-431763f6-3c03-4b05-81f0-96a60815243f.png)
 
 ***
