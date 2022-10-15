@@ -26,9 +26,8 @@
 
 ## TODO
 
-### 1) Add training code/colab
-### 2) Add advanced melody harmonization generator
-### 3) Add composer code/colab
+### 1) Add advanced melody harmonization generator
+### 2) Add composer code/colab
 
 ***
 
