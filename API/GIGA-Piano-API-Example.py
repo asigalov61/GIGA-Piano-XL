@@ -1,6 +1,12 @@
 # DO NOT FORGET TO ALLOW python.exe through Firewall
 # Do not forget to change model settings and path to the desired ones
 
+# Request to the API can be sent like so:
+# !curl --header "Content-Type: application/json" \
+#  --request POST \
+#  --data '{"note_string":[[10, 8, 60], [12, 10, 62]],"note_count":10}' \
+#  http://65.19.132.172:6000/
+
 from flask import Flask, jsonify, request
 from flask_restful import reqparse, abort, Api, Resource
 from waitress import serve
