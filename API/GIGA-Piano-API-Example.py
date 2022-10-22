@@ -1,3 +1,6 @@
+# DO NOT FORGET TO ALLOW python.exe through Firewall
+# Do not forget to change model settings and path to the desired ones
+
 from flask import Flask, jsonify, request
 from flask_restful import reqparse, abort, Api, Resource
 from waitress import serve
