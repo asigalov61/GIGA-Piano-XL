@@ -204,7 +204,7 @@ for f in tqdm(filez[:int(len(filez) * dataset_ratio)]):
         continue
 
 print('=' * 70)
-TMIDIX.Tegridy_Any_Pickle_File_Writer(melody_chords_f, '/content/GIGA_Piano_XL_Processed_MIDIs')        
+TMIDIX.Tegridy_Any_Pickle_File_Writer(train_data1, '/content/GIGA_Piano_XL_Processed_MIDIs')        
 print('Done!')   
 print('=' * 70)
 
