@@ -24,12 +24,5 @@
 
 ***
 
-## TODO
-
-### 1) Add advanced melody harmonization generator
-### 2) Add composer code/colab
-
-***
-
 ### Project Los Angeles
-### Tegridy Code 2022
+### Tegridy Code 2023
